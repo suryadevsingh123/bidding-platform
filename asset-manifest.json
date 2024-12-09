@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bidding-platform/static/css/main.010cc9d7.css",
+    "main.js": "/bidding-platform/static/js/main.1e7e2d59.js",
+    "static/js/453.df3bb6df.chunk.js": "/bidding-platform/static/js/453.df3bb6df.chunk.js",
+    "index.html": "/bidding-platform/index.html",
+    "main.010cc9d7.css.map": "/bidding-platform/static/css/main.010cc9d7.css.map",
+    "main.1e7e2d59.js.map": "/bidding-platform/static/js/main.1e7e2d59.js.map",
+    "453.df3bb6df.chunk.js.map": "/bidding-platform/static/js/453.df3bb6df.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.010cc9d7.css",
+    "static/js/main.1e7e2d59.js"
+  ]
+}
